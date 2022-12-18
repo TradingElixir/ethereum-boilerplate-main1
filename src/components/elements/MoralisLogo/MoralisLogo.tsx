@@ -6,10 +6,10 @@ const MoralisLogo = () => {
 
   return (
     <Image
-      src={colorMode === 'dark' ? '/Moralis-DarkBG.svg' : '/Moralis-LightBG.svg'}
+      src={colorMode === 'dark' ? '/Logo.png' : '/Logo.png'}
       height={45}
       width={150}
-      alt="Moralis"
+      alt="Platter"
     />
   );
 };
