@@ -13,19 +13,19 @@ const Footer = () => {
             as="a"
             href="https://www.linkedin.com/company/platterfinance/"
             aria-label="LinkedIn"
-            icon={<FaLinkedin fontSize="1.5rem" />}
+            icon={<FaLinkedin font-Size="1.5rem" />}
           />
           <IconButton 
             as="a" 
             href="https://instagram.com/platterfinance?igshid=YTY2NzY3YTc=" 
             aria-label="Instagram" 
-            icon={<FaInstagram fontSize="1.5rem" />}
+            icon={<FaInstagram font-Size="1.5rem" />}
            />
           <IconButton
             as="a"
             href="https://twitter.com/PlatterFinance"
             aria-label="Twitter"
-            icon={<FaTwitter fontSize="1.5rem" />}
+            icon={<FaTwitter font-Size="1.5rem" />}
           />
         </ButtonGroup>
         <Text fontSize="large" color="subtle">
